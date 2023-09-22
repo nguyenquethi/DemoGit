@@ -12,3 +12,9 @@ lệnh tạo ra commit
 - git commit -m "message"
 lịch sử commit
 - git log
+
+câu lệnh đẩy code lên github lần đầu
+- git push -u origin (tên nhánh góc dưới bên tay trái vscode)
+
+câu lệnh push code lên git lần 2
+- git push
