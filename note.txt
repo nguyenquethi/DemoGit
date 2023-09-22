@@ -18,3 +18,8 @@ câu lệnh đẩy code lên github lần đầu
 
 câu lệnh push code lên git lần 2
 - git push
+
+3 step push code lên github
+- git add . (đẩy các thay đổi trong các file lên khu vực staging area)
+- git commit -m ""
+- git push
