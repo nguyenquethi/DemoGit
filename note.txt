@@ -1,0 +1,2 @@
+Câu lệnh khởi tạo local repository
+-> git init
